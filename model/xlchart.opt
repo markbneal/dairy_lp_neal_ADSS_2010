@@ -1,0 +1,16 @@
+
+' Mark's attempt to make graph a pie graph
+
+  c.ChartType = xlLineMarkersStacked
+
+
+
+'        Product a graphics file with the graph in either GIF or JPG
+'        formats:
+
+  c.export "C:\Documents and Settings\Neal\My Documents\gamsdir\"&p&".gif","GIF"
+  c.export "C:\Documents and Settings\Neal\My Documents\gamsdir\"&p&".jpg","JPG"
+
+
+
+

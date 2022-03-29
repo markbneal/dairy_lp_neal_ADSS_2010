@@ -1,0 +1,20 @@
+
+--- Job Make a statecontingent table.gms Start 04/25/10 17:12:52
+GAMS Rev 145  Copyright (C) 1987-2006 GAMS Development. All rights reserved
+*** License file too old for this version of GAMS.
+*** Maintenance expired 15 days ago.
+Licensee: David Adamson                                  G050411:1546AP-WIN
+          The University of Queensland,  Risk & Sustainable ManagemenDC5245
+          License for teaching and research at degree granting institutions
+--- Starting compilation
+--- Make a statecontingent table.gms(19) 3 Mb
+--- .State.csv(10) 3 Mb
+--- Make a statecontingent table.gms(32) 3 Mb
+--- .MPUni.csv(13) 3 Mb
+--- Make a statecontingent table.gms(53) 3 Mb
+--- .CS.csv(13) 3 Mb
+--- Make a statecontingent table.gms(116) 3 Mb
+--- Starting execution
+--- Make a statecontingent table.gms(152) 4 Mb
+*** Status: Normal completion
+--- Job Make a statecontingent table.gms Stop 04/25/10 17:12:52 elapsed 0:00:00.078

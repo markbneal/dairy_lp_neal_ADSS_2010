@@ -1,0 +1,3 @@
+I="C:\Program Files\GAMS22.0\wtoolslib\yield.xls"
+R=data!B2:J23
+O=yield.inc

@@ -1,0 +1,509 @@
+
+--- Job ADSA Dairy LP RDP UDP.gms Start 03/25/11 17:15:26
+GAMS Rev 145  Copyright (C) 1987-2006 GAMS Development. All rights reserved
+*** License file too old for this version of GAMS.
+*** Maintenance expired 15 days ago.
+Licensee: David Adamson                                  G050411:1546AP-WIN
+          The University of Queensland,  Risk & Sustainable ManagemenDC5245
+          License for teaching and research at degree granting institutions
+--- Starting compilation
+--- ADSA Dairy LP RDP UDP.gms(67) 3 Mb
+--- .AF.csv(3) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(74) 3 Mb
+--- .GF.csv(13) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(80) 3 Mb
+--- .FertManure.csv(13) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(90) 3 Mb
+--- .UreaF.csv(13) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(96) 3 Mb
+--- .P25F.csv(13) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(102) 3 Mb
+--- .WI.csv(13) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(108) 3 Mb
+--- .CF.csv(13) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(114) 3 Mb
+--- .LF.csv(13) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(120) 3 Mb
+--- .FertApp.csv(13) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(126) 3 Mb
+--- .RF.csv(2) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(132) 3 Mb
+--- .Mow.csv(13) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(140) 3 Mb
+--- .CS.csv(13) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(160) 3 Mb
+--- .HarvestF.csv(13) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(193) 3 Mb
+--- .DMS.csv(4) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(199) 3 Mb
+--- .DMF.csv(13) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(205) 3 Mb
+--- .DMF.csv(13) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(211) 3 Mb
+--- .DMH.csv(3) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(230) 3 Mb
+--- .MES.csv(2) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(236) 3 Mb
+--- .MEF.csv(13) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(242) 3 Mb
+--- .MEF.csv(13) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(248) 3 Mb
+--- .MEH.csv(3) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(267) 3 Mb 1 Error
+*** Error 282 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    Unable to open include file
+--- ADSA Dairy LP RDP UDP.gms(269) 3 Mb 2 Errors
+*** Error 463 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    The column section in the previous table is missing
+--- ADSA Dairy LP RDP UDP.gms(273) 3 Mb 3 Errors
+*** Error 282 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    Unable to open include file
+--- ADSA Dairy LP RDP UDP.gms(275) 3 Mb 4 Errors
+*** Error 463 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    The column section in the previous table is missing
+--- ADSA Dairy LP RDP UDP.gms(285) 3 Mb 5 Errors
+*** Error 282 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    Unable to open include file
+--- ADSA Dairy LP RDP UDP.gms(287) 3 Mb 6 Errors
+*** Error 463 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    The column section in the previous table is missing
+--- ADSA Dairy LP RDP UDP.gms(291) 3 Mb 7 Errors
+*** Error 282 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    Unable to open include file
+--- ADSA Dairy LP RDP UDP.gms(293) 3 Mb 8 Errors
+*** Error 463 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    The column section in the previous table is missing
+--- ADSA Dairy LP RDP UDP.gms(297) 3 Mb 9 Errors
+*** Error 282 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    Unable to open include file
+--- ADSA Dairy LP RDP UDP.gms(299) 3 Mb 10 Errors
+*** Error 463 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    The column section in the previous table is missing
+--- ADSA Dairy LP RDP UDP.gms(309) 3 Mb 11 Errors
+*** Error 282 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    Unable to open include file
+--- ADSA Dairy LP RDP UDP.gms(311) 3 Mb 12 Errors
+*** Error 463 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    The column section in the previous table is missing
+--- ADSA Dairy LP RDP UDP.gms(328) 3 Mb
+--- .FS.csv(2) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(334) 3 Mb
+--- .FF.csv(13) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(340) 3 Mb
+--- .FF.csv(13) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(346) 3 Mb
+--- .FH.csv(3) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(365) 3 Mb
+--- .PDMS.csv(2) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(373) 3 Mb
+--- .DMIs.csv(13) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(384) 3 Mb
+--- .MEMaints.csv(13) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(394) 3 Mb
+--- .MEProds.csv(10) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(415) 3 Mb 13 Errors
+*** Error 282 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    Unable to open include file
+--- ADSA Dairy LP RDP UDP.gms(417) 3 Mb 14 Errors
+*** Error 463 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    The column section in the previous table is missing
+--- ADSA Dairy LP RDP UDP.gms(443) 3 Mb
+--- .ProdRest6000s.csv(13) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(453) 3 Mb
+--- .ProdRest9000s.csv(13) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(475) 3 Mb
+--- .LCCAdv.csv(13) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(481) 3 Mb
+--- .CCs.csv(13) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(530) 3 Mb
+--- .MPUni.csv(13) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(536) 3 Mb
+--- .MPSeas.csv(13) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(632) 3 Mb
+--- .xMultiSolvesDummy.csv(3) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(1280) 3 Mb 15 Errors
+*** Error 257 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    Solve statement not checked because of previous errors
+--- ADSA Dairy LP RDP UDP.gms(1284) 3 Mb 16 Errors
+*** Error 141 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- ADSA Dairy LP RDP UDP.gms(1304) 3 Mb 17 Errors
+*** Error 141 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- ADSA Dairy LP RDP UDP.gms(1310) 3 Mb 18 Errors
+*** Error 141 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- ADSA Dairy LP RDP UDP.gms(1311) 3 Mb 19 Errors
+*** Error 141 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- ADSA Dairy LP RDP UDP.gms(1313) 3 Mb 20 Errors
+*** Error 141 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- ADSA Dairy LP RDP UDP.gms(1314) 3 Mb 21 Errors
+*** Error 141 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- ADSA Dairy LP RDP UDP.gms(1315) 3 Mb 22 Errors
+*** Error 141 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- ADSA Dairy LP RDP UDP.gms(1316) 3 Mb 23 Errors
+*** Error 141 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- ADSA Dairy LP RDP UDP.gms(1317) 3 Mb 24 Errors
+*** Error 141 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- ADSA Dairy LP RDP UDP.gms(1318) 3 Mb 25 Errors
+*** Error 141 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- ADSA Dairy LP RDP UDP.gms(1319) 3 Mb 26 Errors
+*** Error 141 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- ADSA Dairy LP RDP UDP.gms(1320) 3 Mb 27 Errors
+*** Error 141 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- ADSA Dairy LP RDP UDP.gms(1321) 3 Mb 28 Errors
+*** Error 141 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- ADSA Dairy LP RDP UDP.gms(1322) 3 Mb 29 Errors
+*** Error 141 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- ADSA Dairy LP RDP UDP.gms(1323) 3 Mb 30 Errors
+*** Error 141 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- ADSA Dairy LP RDP UDP.gms(1324) 3 Mb 31 Errors
+*** Error 141 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- ADSA Dairy LP RDP UDP.gms(1325) 3 Mb 32 Errors
+*** Error 141 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- ADSA Dairy LP RDP UDP.gms(1326) 3 Mb 33 Errors
+*** Error 141 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- ADSA Dairy LP RDP UDP.gms(1327) 3 Mb 34 Errors
+*** Error 141 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- ADSA Dairy LP RDP UDP.gms(1328) 3 Mb 35 Errors
+*** Error 141 in C:\Documents and Settings\mneal\Desktop\ADSA 06\copy to GAMSDIR\ADSA Dairy LP RDP UDP.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- ADSA Dairy LP RDP UDP.gms(1342) 3 Mb
+--- .xldump.gms(4) 3 Mb
+--- ..xllink.gms(8) 3 Mb
+--- .xldump.gms(10) 3 Mb
+--- call echo report1 | sed s/\..*// >> C:\Documents and Settings\mneal\My Documents\gamsdir\225a\symb.scr
+--- .xldump.gms(73) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(1343) 3 Mb
+--- .xldump.gms(10) 3 Mb
+--- call echo report2 | sed s/\..*// >> C:\Documents and Settings\mneal\My Documents\gamsdir\225a\symb.scr
+sed: can't read and: No such file or directory
+sed: can't read Settings\mneal\My: No such file or directory
+sed: can't read Documents\gamsdir\225a\symb.scr: No such file or directory
+--- .xldump.gms(73) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(1358) 3 Mb
+--- .ADSA Dairy LP Report.gms(10) 3 Mb 36 Errors
+*** Error 141 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- .ADSA Dairy LP Report.gms(11) 3 Mb 37 Errors
+*** Error 141 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- .ADSA Dairy LP Report.gms(12) 3 Mb 38 Errors
+*** Error 141 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gmssed: can't read and: No such file or directory
+sed: can't read Settings\mneal\My: No such file or directory
+sed: can't read Documents\gamsdir\225a\symb.scr: No such file or directory
+The process tried to write to a nonexistent pipe.
+
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- .ADSA Dairy LP Report.gms(13) 3 Mb 39 Errors
+*** Error 141 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- .ADSA Dairy LP Report.gms(14) 3 Mb 40 Errors
+*** Error 141 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- .ADSA Dairy LP Report.gms(15) 3 Mb 41 Errors
+*** Error 141 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- .ADSA Dairy LP Report.gms(19) 3 Mb 42 Errors
+*** Error 141 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- .ADSA Dairy LP Report.gms(21) 3 Mb 43 Errors
+*** Error 141 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- .ADSA Dairy LP Report.gms(22) 3 Mb 44 Errors
+*** Error 141 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- .ADSA Dairy LP Report.gms(25) 3 Mb 45 Errors
+*** Error 120 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Unknown identifier entered as set
+--- .ADSA Dairy LP Report.gms(26) 3 Mb 48 Errors
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 148 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Dimension different - The symbol is referenced with more/less
+       indices as declared
+--- .ADSA Dairy LP Report.gms(30) 3 Mb 52 Errors
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 148 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Dimension different - The symbol is referenced with more/less
+       indices as declared
+--- .ADSA Dairy LP Report.gms(34) 3 Mb 55 Errors
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 148 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Dimension different - The symbol is referenced with more/less
+       indices as declared
+--- .ADSA Dairy LP Report.gms(40) 3 Mb 58 Errors
+*** Error 141 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 148 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Dimension different - The symbol is referenced with more/less
+       indices as declared
+--- .ADSA Dairy LP Report.gms(44) 3 Mb 61 Errors
+*** Error 141 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 148 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Dimension different - The symbol is referenced with more/less
+       indices as declared
+--- .ADSA Dairy LP Report.gms(48) 3 Mb 64 Errors
+*** Error 141 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 148 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Dimension different - The symbol is referenced with more/less
+       indices as declared
+--- .ADSA Dairy LP Report.gms(52) 3 Mb 67 Errors
+*** Error 141 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 148 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Dimension different - The symbol is referenced with more/less
+       indices as declared
+--- .ADSA Dairy LP Report.gms(56) 3 Mb 70 Errors
+*** Error 141 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 148 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Dimension different - The symbol is referenced with more/less
+       indices as declared
+--- .ADSA Dairy LP Report.gms(60) 3 Mb 73 Errors
+*** Error 141 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 148 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Dimension different - The symbol is referenced with more/less
+       indices as declared
+--- .ADSA Dairy LP Report.gms(64) 3 Mb 76 Errors
+*** Error 141 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 148 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Dimension different - The symbol is referenced with more/less
+       indices as declared
+--- .ADSA Dairy LP Report.gms(68) 3 Mb 79 Errors
+*** Error 141 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 148 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Dimension different - The symbol is referenced with more/less
+       indices as declared
+--- .ADSA Dairy LP Report.gms(72) 3 Mb 82 Errors
+*** Error 141 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 148 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Dimension different - The symbol is referenced with more/less
+       indices as declared
+--- .ADSA Dairy LP Report.gms(76) 3 Mb 85 Errors
+*** Error 141 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 148 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Dimension different - The symbol is referenced with more/less
+       indices as declared
+--- .ADSA Dairy LP Report.gms(80) 3 Mb 88 Errors
+*** Error 141 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 148 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Dimension different - The symbol is referenced with more/less
+       indices as declared
+--- .ADSA Dairy LP Report.gms(84) 3 Mb 91 Errors
+*** Error 141 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 148 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Dimension different - The symbol is referenced with more/less
+       indices as declared
+--- .ADSA Dairy LP Report.gms(105) 3 Mb 92 Errors
+*** Error 141 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Symbol neither initialized nor assigned
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- .ADSA Dairy LP Report.gms(108) 3 Mb 98 Errors
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 148 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Dimension different - The symbol is referenced with more/less
+       indices as declared
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 148 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Dimension different - The symbol is referenced with more/less
+       indices as declared
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 148 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Dimension different - The symbol is referenced with more/less
+       indices as declared
+--- .ADSA Dairy LP Report.gms(112) 3 Mb 100 Errors
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 148 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Dimension different - The symbol is referenced with more/less
+       indices as declared
+--- .ADSA Dairy LP Report.gms(116) 3 Mb 107 Errors
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 148 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Dimension different - The symbol is referenced with more/less
+       indices as declared
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 148 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Dimension different - The symbol is referenced with more/less
+       indices as declared
+--- .ADSA Dairy LP Report.gms(120) 3 Mb 111 Errors
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 148 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Dimension different - The symbol is referenced with more/less
+       indices as declared
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 148 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Dimension different - The symbol is referenced with more/less
+       indices as declared
+--- .ADSA Dairy LP Report.gms(124) 3 Mb 115 Errors
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 148 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Dimension different - The symbol is referenced with more/less
+       indices as declared
+*** Error 171 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Domain violation for set
+*** Error 148 in C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP Report.gms
+    Dimension different - The symbol is referenced with more/less
+       indices as declared
+--- .ADSA Dairy LP Report.gms(2012) 3 Mb
+--- ADSA Dairy LP RDP UDP.gms(1358) 3 Mb 115 Errors
+*** Status: Compilation error(s)
+--- Job ADSA Dairy LP RDP UDP.gms Stop 03/25/11 17:15:27 elapsed 0:00:01.294
+Exit code = 2

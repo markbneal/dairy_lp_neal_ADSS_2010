@@ -1,0 +1,237 @@
+[Project]
+
+[RP:ALAN]
+1=
+
+[RP:TRAN2[1]]
+1=
+
+[GDXDIFF]
+FILE1=
+FILE2=
+OUTFL=
+EPS=0.0
+RELEPS=0.0
+SETIGN=0
+FIELD=All fields
+
+[RP:DAIRY]
+1=
+
+[RP:SUDOKU IN GAMS]
+1=
+
+[RP:XLS2GMS[1]]
+1=
+
+[RP:DAIRYLP]
+1=
+
+[RP:HONSTHESISDAIRYLP]
+1=
+
+[RP:CHARTDAT]
+1=
+
+[RP:SIMPLEGR]
+1=
+
+[RP:GNUPLTXY]
+1=
+
+[RP:AIRSP]
+1=
+
+[RP:ABSMIP]
+1=
+
+[RP:GRAPH RUTHERFORD EX1A]
+1=
+
+[RP:MARKDAIRY]
+1=
+
+[RP:MIP92]
+1=
+
+[RP:MARK3]
+1=
+
+[RP:GRAPH RUTHERFORD EX2]
+1=
+
+[RP:GRAPH RUTHERFORD EX4]
+1=
+
+[RP:XLCHART]
+1=
+
+[RP:SIMPLEGR2]
+1=
+
+[RP:GRAPH RUTHERFORD EX1]
+1=
+
+[RP:UNTITLED_4]
+1=
+
+[RP:GRAPH RUTHERFORD EX3]
+1=
+
+[RP:GRAPH RUTHERFORD EX5]
+1=
+
+[RP:UNTITLED_5]
+1=
+
+[RP:PROGRESSIVELY LAG A VECTOR TO CREATE PARAMETER]
+1=
+
+[RP:GMS2XLS]
+1=
+
+[RP:XLS2GMS]
+1=
+
+[RP:LATTICE]
+1=
+
+[RP:WESTMIP]
+1=
+
+[RP:DEMO1]
+1=
+
+[RP:CREATING HONS THESISDAIRY LINEAR PROGRAM]
+1=
+
+[RP:CANPUT[1]]
+1=
+
+[RP:SIMPLE[1]]
+1=
+
+[RP:GDXSAVEPOINT2[1]]
+1=
+
+[RP:EINSTEIN[1]]
+1=
+
+[RP:GDXSAVEPOINT2]
+1=
+
+[RP:MANCOMPB[1]]
+1=
+
+[RP:FARMCOMP]
+1=
+
+[RP:FARMREP]
+1=
+
+[RP:UNTITLED_1]
+1=
+
+[RP:MANCOMP]
+1=
+
+[RP:AVILOOP]
+1=
+
+[SOLVERS]
+CNS=CONOPT
+DNLP=CONOPT
+LP=CONOPT
+NLP=CONOPT
+QCP=CONOPT
+RMINLP=CONOPT
+RMIP=CONOPT
+RMIQCP=CONOPT
+
+[RP:AGRESTE]
+1=
+
+[RP:ADSA DAIRY LP 18 MAY]
+1=
+
+[RP:BASE_21JULI06_IAAEENFUZIONLOOP]
+1=
+
+[RP:CLAREVIEW DAIRY LINEAR PROGRAM]
+1=
+
+[RP:UNTITLED_2]
+1=
+
+[RP:MAKE A STATECONTINGENT TABLE]
+1=
+
+[RP:ADSA DAIRY LP REPORT]
+1=
+
+[GDXDISP: vForageArea Var 2]
+PlaneDim=0
+RowDim=2
+Squeeze=1
+Order=3,2,1
+Decim=1
+Sorted=YY
+
+[GDXDISP: vNumberCows Var 2]
+PlaneDim=1
+RowDim=1
+Squeeze=1
+Order=3,1,2
+Decim=7
+
+[GDXDISP: vMilkSold Var 3]
+PlaneDim=1
+RowDim=1
+Squeeze=1
+Order=3,1,2,4
+Decim=7
+
+[RP:UNTITLED_3]
+1=
+
+[RP:HARKMCP]
+1=
+
+[RP:TRNSPORT]
+1=
+
+[RP:ADSA DAIRY LP RDP UDP]
+1=
+
+[RP:ADSA DAIRY LP]
+1=
+
+[RP:BERRUN1]
+1=
+
+[RP:ADSA DAIRY LP STATE CONTINGENT]
+1=
+
+[RP:JDS 2011 DAIRY LP STATE CONTINGENT UDP RDP]
+1=
+
+[MRUFILES]
+1=C:\Documents and Settings\mneal\My Documents\gamsdir\JDS 2011 Dairy LP State Contingent UDP RDP.ref
+2=C:\Documents and Settings\mneal\My Documents\gamsdir\JDS 2011 Dairy LP State Contingent UDP RDP.gdx
+3=C:\Documents and Settings\mneal\My Documents\gamsdir\JDS 2011 Dairy LP State Contingent UDP RDP.log
+4=C:\Documents and Settings\mneal\My Documents\gamsdir\DairyFarm_p.gdx
+5=C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP State Contingent.lst
+6=C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP State Contingent.gms
+7=C:\Documents and Settings\mneal\My Documents\gamsdir\from Thilak\BERRUN1.GMS
+8=C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP.gms
+9=C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP State Contingent.ref
+
+[OPENWINDOW_1]
+MAXIM=0
+TOP=75
+LEFT=40
+HEIGHT=912
+WIDTH=996
+FILE0=C:\Documents and Settings\mneal\My Documents\gamsdir\JDS 2011 Dairy LP State Contingent UDP RDP.gms
+FILE1=C:\Documents and Settings\mneal\My Documents\gamsdir\JDS 2011 Dairy LP State Contingent UDP RDP.lst
+FILE2=C:\Documents and Settings\mneal\My Documents\gamsdir\JDS 2011 Dairy LP State Contingent UDP RDP.lst

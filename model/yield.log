@@ -1,0 +1,13 @@
+
+GAMS Rev 143  Copyright (C) 1987-2005 GAMS Development. All rights reserved
+Licensee: GAMS Development Corporation, Washington, DC   G871201/0000CA-ANY
+          Free Demo,  202-342-0180,  sales@gams.com,  www.gams.com   DC0000
+--- Starting compilation
+--- yield.gms(15) 3 Mb
+--- call =xls2gms @yield.txt
+--- yield.gms(19) 3 Mb
+--- .yield.inc(33) 3 Mb
+--- yield.gms(22) 3 Mb
+--- Starting execution
+--- yield.gms(55) 4 Mb
+*** Status: Normal completion

@@ -1,0 +1,9 @@
+B 2 C o m p i l a t i o n
+B 15 data for single lines, bars, pie
+B 28 data for functions
+B 45 data vector 3D
+B 67 data for gantt graph
+B 86 data for surface graph
+B 102 data for multi line graph
+B 121 data for fan graph
+B 170 E x e c u t i o n

@@ -1,0 +1,4 @@
+State,p,MilkPVar,CullPVar,RainVar,WaterPVar,FeedPVar
+MPriceUpRainUp,0.5,1,1,1,1,1
+MPriceAvgRainAvg,0.5,1,1,1,1,1
+MPriceDownRainAvg,0.5,1,1,1,1,1

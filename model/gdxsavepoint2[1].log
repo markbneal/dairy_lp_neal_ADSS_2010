@@ -1,0 +1,57 @@
+
+--- Job gdxsavepoint2[1].gms Start 05/10/06 10:35:55
+GAMS Rev 144  Copyright (C) 1987-2006 GAMS Development. All rights reserved
+Licensee: David Adamson                                  G050411:1546AP-WIN
+          The University of Queensland,  Risk & Sustainable ManagemenDC5245
+          License for teaching and research at degree granting institutions
+--- Starting compilation
+--- gdxsavepoint2[1].gms(74) 3 Mb
+--- Starting execution
+--- gdxsavepoint2[1].gms(70) 4 Mb
+--- Generating LP model transport
+--- gdxsavepoint2[1].gms(72) 4 Mb
+--- LOOPS newseattle = s1
+---   6 rows  7 columns  19 non-zeroes
+--- Executing BDMLP
+
+ BDMLP 1.3     Mar 15, 2006 WIN.00.01 22.1 060.056.041.VIS                  
+
+ Work space requested by solver --    0.03 Mb
+ Reading data...
+
+    Iter    Sinf/Objective  Status    Num  Freq
+       1    2.25000000E+02  infeas      1     1
+       4    1.53675000E+02  nopt        0
+ SOLVER STATUS: 1 NORMAL COMPLETION         
+ MODEL STATUS : 1 OPTIMAL                   
+ OBJECTIVE VALUE     153.67500    
+--- Restarting execution
+--- gdxsavepoint2[1].gms(72) 0 Mb
+--- Reading solution for model transport
+--- GDX Point C:\Documents and Settings\Neal\My Documents\gamsdir\transport_p1.gdx
+--- Executing after solve
+--- gdxsavepoint2[1].gms(70) 3 Mb
+--- Generating LP model transport
+--- gdxsavepoint2[1].gms(72) 3 Mb
+--- LOOPS newseattle = s2
+---   6 rows  7 columns  19 non-zeroes
+--- Executing BDMLP
+
+ BDMLP 1.3     Mar 15, 2006 WIN.00.01 22.1 060.056.041.VIS                  
+
+ Work space requested by solver --    0.03 Mb
+ Reading data...
+
+    Iter    Sinf/Objective  Status    Num  Freq
+       0    1.53675000E+02  nopt        0
+ SOLVER STATUS: 1 NORMAL COMPLETION         
+ MODEL STATUS : 1 OPTIMAL                   
+ OBJECTIVE VALUE     153.67500    
+--- Restarting execution
+--- gdxsavepoint2[1].gms(72) 0 Mb
+--- Reading solution for model transport
+--- GDX Point C:\Documents and Settings\Neal\My Documents\gamsdir\transport_p2.gdx
+--- Executing after solve
+--- gdxsavepoint2[1].gms(74) 3 Mb
+*** Status: Normal completion
+--- Job gdxsavepoint2[1].gms Stop 05/10/06 10:35:56 elapsed 0:00:00.906

@@ -1,0 +1,18 @@
+set terminal windows "Times Roman" 10
+set nozeroaxis
+set noxzeroaxis
+set noyzeroaxis
+set grid
+set tics in
+set xtics  nomirror
+set ytics  nomirror
+set xlabel  "X-AXIS"
+set ylabel  "Y-AXIS"
+set y2label
+set data style lines
+set border
+set key top left
+plot \
+ "gnuplot.dat" index 0 using 1:2 "%lf%lf" title "A",\
+ "gnuplot.dat" index 1 using 1:2 "%lf%lf" title "B"
+!if exist gnuplot.ini  del gnuplot.ini >nul

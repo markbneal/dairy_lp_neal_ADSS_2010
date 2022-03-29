@@ -1,0 +1,47 @@
+
+--- Job trnsport.gms Start 08/11/06 12:37:35
+GAMS Rev 145  Copyright (C) 1987-2006 GAMS Development. All rights reserved
+Licensee: Mark Neal                                      G060515:1514AP-WIN
+          University of Queensland, The School of Economics          DC5881
+          License for teaching and research at degree granting institutions
+--- Starting compilation
+--- trnsport.gms(69) 3 Mb
+--- Starting execution
+--- trnsport.gms(45) 4 Mb
+--- Generating LP model transport
+--- trnsport.gms(66) 4 Mb
+---   6 rows  7 columns  19 non-zeroes
+--- Executing CONOPT
+C O N O P T 3 Apr 21, 2006 WIN.CO.CO 22.2 016.057.041.VIS Library 314P     
+ 
+ 
+    C O N O P T 3   x86/MS Windows version 3.14P-016-057
+    Copyright (C)   ARKI Consulting and Development A/S
+                    Bagsvaerdvej 246 A
+                    DK-2880 Bagsvaerd, Denmark
+ 
+ Using default options.
+ 
+ Reading Data
+ 
+   Iter Phase Ninf   Infeasibility   RGmax    NSB   Step InItr MX OK
+      0   0        9.0000000000E+02 (Input point)
+                                Pre-triangular equations:        0
+                                Post-triangular equations:       1
+      1   0        9.0000000000E+02 (After pre-processing)
+      2   0        3.5156250000E+00 (After scaling)
+ 
+ ** Feasible solution. Value of objective =    165.600000000
+ 
+   Iter Phase Ninf     Objective     RGmax    NSB   Step InItr MX OK
+      4   3        1.5367500000E+02 0.0E+00     0
+ 
+ ** Optimal solution. There are no superbasic variables.
+ 
+--- Restarting execution
+--- trnsport.gms(66) 0 Mb
+--- Reading solution for model transport
+--- Executing after solve
+--- trnsport.gms(68) 3 Mb
+*** Status: Normal completion
+--- Job trnsport.gms Stop 08/11/06 12:37:36 elapsed 0:00:00.821

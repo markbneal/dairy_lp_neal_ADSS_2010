@@ -1,0 +1,32 @@
+
+GAMS Rev 143  Copyright (C) 1987-2005 GAMS Development. All rights reserved
+Licensee: GAMS Development Corporation, Washington, DC   G871201/0000CA-ANY
+          Free Demo,  202-342-0180,  sales@gams.com,  www.gams.com   DC0000
+--- Starting compilation
+--- Untitled_1.gms(57) 3 Mb
+--- Starting execution
+--- Generating LP model test
+--- Untitled_1.gms(53) 4 Mb
+---   3 rows  3 columns  5 non-zeroes
+--- Executing CPLEX
+
+GAMS/Cplex    Aug  1, 2005 WIN.CP.NA 22.0 029.032.041.VIS For Cplex 9.1
+Cplex 9.1.2, GAMS Link 29 
+
+Reading data...
+Starting Cplex...
+Tried aggregator 1 time.
+LP Presolve eliminated 1 rows and 1 columns.
+Aggregator did 2 substitutions.
+All rows and columns eliminated.
+Presolve time =    0.09 sec.
+
+Optimal solution found.
+Objective :           0.000000
+
+--- Restarting execution
+--- Untitled_1.gms(53) 0 Mb
+--- Reading solution for model test
+--- Executing after solve
+--- Untitled_1.gms(57) 3 Mb
+*** Status: Normal completion

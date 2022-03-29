@@ -1,0 +1,12 @@
+Excel GDX interface GDX XRW 0003 2005-04-19
+Input file : C:\Documents and Settings\Mark\My Documents\gamsdir\xllink.gdx
+Output file: c:\gams\AdsaLpOutput.xls
+Adding new sheet: Sheet2
+**** Unable to save XLS file: Microsoft Office Excel cannot access the file 'C:\gams'. There are several possible reasons:
+
+• The file name or path does not exist.
+• The file is being used by another program.
+• The workbook you are trying to save has the same name as a currently open workbook
+
+Any changes made to the spreadsheet were not saved
+Total time = 7962 Ms
