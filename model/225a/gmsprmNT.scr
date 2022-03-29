@@ -1,0 +1,31 @@
+   EolOnly 1
+     Input C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\ADSA Dairy LP State Contingent.gms
+    Output C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\ADSA Dairy LP State Contingent.lst
+ PageWidth 80
+  PageSize 0
+    Action R
+    SubSys C:\GAMS\GAMS21.5\gmscmpnt.txt
+    ScrDir C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\225a\
+    SysDir C:\GAMS\GAMS21.5\
+    CurDir C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\
+   WorkDir C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\
+    PutDir C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\
+ScriptNext 225a\gamsnext.cmd
+ScriptExit gmsxitNT.cmd
+ScriptFrst @echo off
+ LogOption 3
+ AppendOut 1
+   License C:\Users\nealm\Downloads\gamslice.txt
+ LibIncDir C:\GAMS\GAMS21.5\inclib\
+ SysIncDir C:\GAMS\GAMS21.5\
+  ErrorLog 99
+        LP CONOPT
+      RMIP CONOPT
+       NLP CONOPT
+       CNS CONOPT
+      DNLP CONOPT
+    RMINLP CONOPT
+       QCP CONOPT
+    RMIQCP CONOPT
+       IDE 1
+  ExecMode 1

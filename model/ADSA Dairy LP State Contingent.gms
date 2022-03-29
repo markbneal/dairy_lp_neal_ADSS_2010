@@ -11,7 +11,7 @@ option limrow = 42;
 option limcol = 42;
 option lp = conopt;
 option dnlp=conopt;
-option mip=coincbc;
+*option mip=coincbc;
 option rminlp=conopt
 
 option iterlim =1000000;

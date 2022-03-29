@@ -1,0 +1,205 @@
+41
+1 199 0 0 140   0.00000000000000E+000 0   0.00000000000000E+000 0 1
+30188 0 0 0 442 991 648 28549 0 0 0
+210658 0 0 0 0 0 0 0
+1353766 0
+210658 0 0 0 0 0 0 210540 0 118
+0 0 0 0 0 0 0
+1 1612 0
+0 0 6
+  1.00000000000000E-001   0.00000000000000E+000 0
+0   0.00000000000000E+000 0   0.00000000000000E+000
+  3.60000000000000E+004 1000000 0
+1 0
+  0.00000000000000E+000 0 0 0   1.00000000000000E+000 0
+208246 100
+0 0 0 0 0
+  0.00000000000000E+000   0.00000000000000E+000   0.00000000000000E+000   0.00000000000000E+000   0.00000000000000E+000
+C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\225a\gamsmatr.scr
+C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\225a\gamsinst.scr
+C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\conopt.opt
+C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\225a\gamsstat.scr
+C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\225a\gamssolu.scr
+
+C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\225a\gamsdict.scr
+3
+14:40:09
+03/29/22
+C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\
+C:\GAMS\GAMS21.5\
+C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\225a\
+80 2147483647
+0 0 5797 44648 38851 53520
+Mark Neal                                      G060515:1514AP-WIN0
+University of Queensland, The School of Economics                0
+1516147601CO                                                   000
+0 1 1 0
+225a\gmsprmNT.scr
+14 48 7
+LP         7 7
+MIP        12 0
+RMIP       7 0
+NLP        7 0
+MCP        39 0
+MPEC       33 0
+DREAM      0 0
+CNS        7 0
+DNLP       7 7
+RMINLP     7 7
+MINLP      15 0
+QCP        7 0
+MIQCP      43 0
+RMIQCP     7 0
+AMPL       100001 0 1 1 1 1 1 1 1 0 1 1 1 1 0 0 0
+gmscvant.cmd
+gmscvanx.exe
+BARON      1001 4 1 1 1 1 1 0 0 0 0 1 1 1 1 1 1
+gmsba_nt.cmd
+gmsba_nx.exe
+BDMLP      1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+gmsbd_nt.cmd
+gmsbd_nx.exe
+BENCH      101111 4 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+gmsbncnt.cmd
+gmsbncnx.exe
+CoinGlpk   1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+gmscngnt.cmd
+gmscngnx.exe
+CoinSbb    1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+gmscnsnt.cmd
+gmscnsnx.exe
+CONOPT     1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 0 1
+gmsco3nt.cmd
+gmsco3nx.exe
+CONOPT1    1 0 1 1 0 1 1 0 0 0 0 1 1 0 1 0 1
+gmsco_nt.cmd
+gmsco_nx.exe
+CONOPT2    1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 0 1
+gmsco2nt.cmd
+gmsco2nx.exe
+CONOPT3    1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 0 1
+gmsco3nt.cmd
+gmsco3nx.exe
+CONVERT    101011 4 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+gmscv_nt.cmd
+gmscv_nx.exe
+CPLEX      11 4 1 1 1 1 0 0 0 0 0 0 0 0 1 1 1
+gmscp_nt.cmd
+gmscp_nx.exe
+DECISC     2011 4 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+gmsdecnt.cmd
+DECISM     2011 4 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+gmsdemnt.cmd
+DICOPT     1 4 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+gmsdi_nt.cmd
+gmsdi_nx.exe
+EXAMINER   101111 4 1 1 1 1 1 1 1 0 1 1 1 0 1 1 1
+gmsex_nt.cmd
+gmsex_nx.exe
+GAMSBAS    1111 4 1 1 1 1 1 1 0 0 0 1 1 1 0 0 0
+gmsbs_nt.cmd
+gmsbshnx.exe
+GAMSCHK    101111 4 1 1 1 1 1 1 0 0 0 1 1 1 0 0 0
+gmsck_nt.cmd
+gmsckhnx.exe
+KNITRO     111 0 1 1 0 1 1 0 0 0 0 1 1 0 1 0 1
+gmskn_nt.cmd
+gmskn_nx.exe
+LGO        1 4 1 1 0 1 1 0 0 0 0 1 1 0 1 0 1
+gmslg_nt.cmd
+gmslg_nx.exe
+LINGO      100001 0 1 1 1 1 1 0 0 0 0 1 1 1 0 0 0
+gmscvlnt.cmd
+gmscvlnx.exe
+MILES      100001 4 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+gmsmcent.cmd
+gmsmcenx.exe
+MILESE     100001 4 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+gmsmcent.cmd
+gmsmcenx.exe
+MILESOLD   100001 2 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+gmsmc_nt.cmd
+gmsmc_nx.exe
+MINOS      101 0 1 1 0 1 1 0 0 0 0 1 1 0 1 0 1
+gmsmi_nt.cmd
+gmsmi_nx.exe
+MINOS5     1 0 1 1 0 1 1 0 0 0 0 1 1 0 1 0 1
+gmsm5_nt.cmd
+gmsm5_nx.exe
+MINOS55    101 0 1 1 0 1 1 0 0 0 0 1 1 0 1 0 1
+gmsmi_nt.cmd
+gmsmi_nx.exe
+MOSEK      1 4 1 1 1 1 1 0 0 0 0 1 1 0 1 1 1
+gmsmk_nt.cmd
+gmsmk_nx.exe
+MPECDUMP   101111 4 1 1 1 1 1 1 1 0 1 1 1 1 0 0 0
+gmsmd_nt.cmd
+gmsmd_nx.exe
+MPSGE      100001 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+gmsgewnt.cmd
+gmsgewnx.exe
+MPSWRITE   11 3 1 1 1 1 1 0 0 0 0 1 1 1 0 0 0
+gmsmp_nt.cmd
+gmsmp_nx.exe
+MSNLP      101 0 1 0 0 0 1 0 0 0 0 1 1 0 1 0 1
+gmsmn_nt.cmd
+gmsmn_nx.exe
+NLPEC      100001 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0
+gmscvnnt.cmd
+gmscvnnx.exe
+OQNLP      101 0 1 0 0 0 1 0 0 0 0 1 1 1 1 1 1
+gmsoq_nt.cmd
+gmsoq_nx.exe
+OSL        11 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+gmsos3nt.cmd
+gmsos3nx.exe
+OSL1       1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+gmsos_nt.cmd
+gmsos_nx.exe
+OSL2       1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+gmsos2nt.cmd
+gmsos2nx.exe
+OSL3       11 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+gmsos3nt.cmd
+gmsos3nx.exe
+PATH       100001 4 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0
+gmsptcnt.cmd
+gmsptcnx.exe
+PATHC      100001 4 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0
+gmsptcnt.cmd
+gmsptcnx.exe
+PATHNLP    111 4 1 1 0 1 1 0 0 0 0 1 1 0 1 0 1
+gmsptnnt.cmd
+gmsptnnx.exe
+PATHOLD    1 2 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+gmspt_nt.cmd
+gmspt_nx.exe
+SBB        111 4 1 0 0 0 0 0 0 0 0 0 0 1 0 1 0
+gmssb_nt.cmd
+gmssb_nx.exe
+SNOPT      101 0 1 1 0 1 1 0 0 0 0 1 1 0 1 0 1
+gmssn_nt.cmd
+gmssn_nx.exe
+TRAMP      11 4 1 1 1 1 1 0 0 0 0 1 1 0 1 1 1
+gmstr_nt.cmd
+gmstr_nx.exe
+XA         1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+gmsxa_nt.cmd
+gmsxa_nx.exe
+XAPAR      1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+gmsxm_nt.cmd
+gmsxm_nx.exe
+XPRESS     1 0 1 1 1 1 0 0 0 0 0 0 0 0 1 0 1
+gmsxp_nt.cmd
+gmsxp_nx.exe
+097497091212                                   G060515:00  AP   00
+DC5881       g 1                               A Invoice         0
+C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\ADSA Dairy LP State Contingent.scr
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0   1.00000000000000E+000 0 0
+0 0 0
+0 0 0 1 0
+C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\DairyFarm.dll
+C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\225a\sbbinfo.scr
+C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\225a\gamscntr.scr
+C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\

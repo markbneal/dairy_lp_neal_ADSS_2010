@@ -1504,7 +1504,7 @@ Option SAVEPOINT=1;              # This saves a basis
 Parameter Report1(k,*,                      ax) Reporting on important info ;
 Parameter Report2(k,*,                      ax) Reporting on important info ;
 
-Execute_Loadpoint 'DairyFarm_p'  # This loads a basis
+*Execute_Loadpoint 'DairyFarm_p'  # This loads a basis
 
 Loop(ax,
          axNow(ax) = Yes;
