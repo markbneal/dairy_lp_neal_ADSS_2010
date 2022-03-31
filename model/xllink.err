@@ -10,3 +10,17 @@ Adding new sheet: Sheet2
 
 Any changes made to the spreadsheet were not saved
 Total time = 7962 Ms
+Excel GDX interface GDX XRW 0003 2004-10-20
+Input file : C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\xllink.gdx
+Output file: c:\gams\AdsaLpReport.xls
+**** Unable to save XLS file: Cannot access read-only document 'AdsaLpReport.xls'
+
+Any changes made to the spreadsheet were not saved
+Total time = 28469 Ms
+Excel GDX interface GDX XRW 0003 2004-10-20
+Input file : C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\xllink.gdx
+Output file: c:\gams\AdsaLpReport.xls
+**** Unable to save XLS file: Cannot access read-only document 'AdsaLpReport.xls'
+
+Any changes made to the spreadsheet were not saved
+Total time = 21765 Ms

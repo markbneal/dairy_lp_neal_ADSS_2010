@@ -166,9 +166,6 @@ RMIQCP=CONOPT
 [RP:MAKE A STATECONTINGENT TABLE]
 1=
 
-[RP:ADSA DAIRY LP REPORT]
-1=
-
 [GDXDISP: vForageArea Var 2]
 PlaneDim=0
 RowDim=2
@@ -200,31 +197,35 @@ Decim=7
 [RP:TRNSPORT]
 1=
 
-[RP:ADSA DAIRY LP RDP UDP]
-1=
-
 [RP:ADSA DAIRY LP]
 1=
 
 [RP:BERRUN1]
 1=
 
-[RP:ADSA DAIRY LP STATE CONTINGENT]
-1=
-
 [RP:JDS 2011 DAIRY LP STATE CONTINGENT UDP RDP]
 1=
 
+[RP:ADSA DAIRY LP RDP UDP]
+1=
+
+[RP:ADSA DAIRY LP REPORT]
+1=
+
+[RP:ADSA DAIRY LP STATE CONTINGENT]
+1=
+
 [MRUFILES]
-1=C:\Documents and Settings\mneal\My Documents\gamsdir\JDS 2011 Dairy LP State Contingent UDP RDP.ref
-2=C:\Documents and Settings\mneal\My Documents\gamsdir\JDS 2011 Dairy LP State Contingent UDP RDP.gdx
-3=C:\Documents and Settings\mneal\My Documents\gamsdir\JDS 2011 Dairy LP State Contingent UDP RDP.log
-4=C:\Documents and Settings\mneal\My Documents\gamsdir\DairyFarm_p.gdx
-5=C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP State Contingent.lst
-6=C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP State Contingent.gms
-7=C:\Documents and Settings\mneal\My Documents\gamsdir\from Thilak\BERRUN1.GMS
-8=C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP.gms
-9=C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP State Contingent.ref
+1=C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\DairyFarm_p all states equal seas price year calving semifixed stocking rate.gdx
+2=C:\Documents and Settings\mneal\My Documents\gamsdir\JDS 2011 Dairy LP State Contingent UDP RDP.ref
+3=C:\Documents and Settings\mneal\My Documents\gamsdir\JDS 2011 Dairy LP State Contingent UDP RDP.gdx
+4=C:\Documents and Settings\mneal\My Documents\gamsdir\JDS 2011 Dairy LP State Contingent UDP RDP.log
+5=C:\Documents and Settings\mneal\My Documents\gamsdir\DairyFarm_p.gdx
+6=C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP State Contingent.lst
+7=C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP State Contingent.gms
+8=C:\Documents and Settings\mneal\My Documents\gamsdir\from Thilak\BERRUN1.GMS
+9=C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP.gms
+10=C:\Documents and Settings\mneal\My Documents\gamsdir\ADSA Dairy LP State Contingent.ref
 
 [OPENWINDOW_1]
 MAXIM=0
@@ -232,6 +233,7 @@ TOP=75
 LEFT=40
 HEIGHT=912
 WIDTH=996
-FILE0=C:\Documents and Settings\mneal\My Documents\gamsdir\JDS 2011 Dairy LP State Contingent UDP RDP.gms
-FILE1=C:\Documents and Settings\mneal\My Documents\gamsdir\JDS 2011 Dairy LP State Contingent UDP RDP.lst
-FILE2=C:\Documents and Settings\mneal\My Documents\gamsdir\JDS 2011 Dairy LP State Contingent UDP RDP.lst
+FILE0=C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\ADSA Dairy LP Report.gms
+FILE1=C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\ADSA Dairy LP State Contingent.gms
+FILE2=C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\ADSA Dairy LP State Contingent.lst
+FILE3=C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\ADSA Dairy LP State Contingent.gms

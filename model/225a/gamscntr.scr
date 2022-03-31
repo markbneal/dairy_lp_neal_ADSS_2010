@@ -1,5 +1,5 @@
 41
-1 199 0 0 140   0.00000000000000E+000 0   0.00000000000000E+000 0 1
+1 199 0 0 140   1.00000000000000E+000 0   0.00000000000000E+000 0 1
 30188 0 0 0 442 991 648 28549 0 0 0
 210658 0 0 0 0 0 0 0
 1353766 0
@@ -11,7 +11,7 @@
 0   0.00000000000000E+000 0   0.00000000000000E+000
   3.60000000000000E+004 1000000 0
 1 0
-  0.00000000000000E+000 0 0 0   1.00000000000000E+000 0
+  0.00000000000000E+000 0 1 0   1.00000000000000E+000 0
 208246 100
 0 0 0 0 0
   0.00000000000000E+000   0.00000000000000E+000   0.00000000000000E+000   0.00000000000000E+000   0.00000000000000E+000
@@ -23,13 +23,13 @@ C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_201
 
 C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\225a\gamsdict.scr
 3
-14:40:09
-03/29/22
+08:44:56
+03/31/22
 C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\
 C:\GAMS\GAMS21.5\
 C:\Users\nealm\OneDrive - DairyNZ Limited\Desktop\dairynz\dairy_lp_neal_ADSS_2010\model\225a\
 80 2147483647
-0 0 5797 44648 38851 53520
+0 0 5799 44650 38851 53520
 Mark Neal                                      G060515:1514AP-WIN0
 University of Queensland, The School of Economics                0
 1516147601CO                                                   000
